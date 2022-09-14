@@ -1,5 +1,5 @@
 # Simple Movie App
-Just search any movie that comes in mind and hit search icon. App uses OMDb API.
+Just search any movie, tv-serie or videogame that comes in mind and hit search icon. App uses OMDb API.
 
 ![simplemovieapppic](https://user-images.githubusercontent.com/49163212/190190581-f89fe4c5-a820-49ab-871c-132b28dd93ab.jpg)
 
