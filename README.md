@@ -1,4 +1,4 @@
-#Simple Movie App
+# Simple Movie App
 Just search any movie that comes in mind and hit search icon. App uses OMDb API.
 
 ![simplemovieapppic](https://user-images.githubusercontent.com/49163212/190108332-dfc06357-d242-497e-8293-960650c00254.jpg)
